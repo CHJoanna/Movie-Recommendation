@@ -1,4 +1,4 @@
-## Online scene-level movie rcommendation
+## Online scene-level movie recommendation
 Motivation: recommendation model for previously unseen/unrated and new-released movies.
 
 ### Model
